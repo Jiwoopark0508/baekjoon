@@ -17,4 +17,8 @@ for i in range( int(r) ):
     a0 = dynfib( t, 1, 0 )
     a1 = dynfib( t, 0, 1 )
 
+<<<<<<< HEAD
     print a0, a1
+=======
+    print a0, a1
+>>>>>>> 65952fc85e9408314fd48e337d023479d8b0f8cd
